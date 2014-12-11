@@ -1,0 +1,103 @@
+[
+  {
+    "inclusive_tax": [],
+    "discount_money": {
+      "currency_code": "JPY",
+      "amount": 0
+    },
+    "tip_money": {
+      "currency_code": "JPY",
+      "amount": 0
+    },
+    "refunded_money": {
+      "currency_code": "JPY",
+      "amount": 0
+    },
+    "itemizations": [
+      {
+        "name": "Custom Amount",
+        "quantity": "1.00000000",
+        "item_detail": {
+          "category_name": "",
+          "sku": ""
+        },
+        "total_money": {
+          "currency_code": "JPY",
+          "amount": 100
+        },
+        "single_quantity_money": {
+          "currency_code": "JPY",
+          "amount": 100
+        },
+        "gross_sales_money": {
+          "currency_code": "JPY",
+          "amount": 100
+        },
+        "discount_money": {
+          "currency_code": "JPY",
+          "amount": 0
+        },
+        "net_sales_money": {
+          "currency_code": "JPY",
+          "amount": 100
+        },
+        "taxes": [],
+        "discounts": [],
+        "modifiers": []
+      }
+    ],
+    "total_collected_money": {
+      "currency_code": "JPY",
+      "amount": 100
+    },
+    "processing_fee_money": {
+      "currency_code": "JPY",
+      "amount": -3
+    },
+    "device": {
+      "id": "358240050221472",
+      "name": "Nexus5"
+    },
+    "swedish_rounding_money": {
+      "currency_code": "JPY",
+      "amount": 0
+    },
+    "tax_money": {
+      "currency_code": "JPY",
+      "amount": 0
+    },
+    "payment_url": "https://squareup.com/dashboard/sales/transactions/D3nCw2pYvnSwxLYSnvmaIwMF",
+    "creator_id": "CG9PMZXJG7VWK",
+    "additive_tax_money": {
+      "currency_code": "JPY",
+      "amount": 0
+    },
+    "merchant_id": "CG9PMZXJG7VWK",
+    "net_total_money": {
+      "currency_code": "JPY",
+      "amount": 97
+    },
+    "tender": [
+      {
+        "type": "CREDIT_CARD",
+        "name": "Credit Card",
+        "total_money": {
+          "currency_code": "JPY",
+          "amount": 100
+        },
+        "card_brand": "VISA",
+        "pan_suffix": "0515",
+        "entry_method": "SWIPED"
+      }
+    ],
+    "id": "D3nCw2pYvnSwxLYSnvmaIwMF",
+    "inclusive_tax_money": {
+      "currency_code": "JPY",
+      "amount": 0
+    },
+    "refunds": [],
+    "receipt_url": "https://squareup.com/receipt/preview/D3nCw2pYvnSwxLYSnvmaIwMF",
+    "created_at": "2014-12-02T06:54:24Z",
+    "additive_tax": []
+  }
+]
